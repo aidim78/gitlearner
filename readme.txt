@@ -6,3 +6,4 @@ fine i think it is good for me to leave
  this time i practice some merge with --no-ff which means that in feature
  branch the commit can be remained
 
+ok this time i create a new branch to test 
